@@ -1,0 +1,95 @@
+#mybody{
+    background-color:black;
+
+}
+#myh1{
+ color: darkblue;
+ text-align: center;
+ font-size: 40px;
+}
+#myh2{
+ color:powderblue;
+ text-align: left;
+ font-size: 40px;
+}
+#myh3{
+    color:gray;
+    text-align: left;
+    font-size: 40px;
+   }
+ 
+   #mybody{
+    background-color: aliceblue;
+   }
+#myh1{
+    color:blueviolet;
+    text-align: left;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#myh2{
+    color:rgb(95, 129, 160);
+    text-align: left;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#myh3{
+    color:black;
+    text-align: left;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#myh4{
+    color:rgb(136, 58, 136);
+    text-align: left;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#myh5{
+    color:gray;
+    text-align: left;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#myh6{
+    color:rgb(47, 112, 114);
+    text-align: left;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#myh7{
+    color: rgb(68, 56, 85);
+    text-align: left;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#mydiv{
+    background-color: rgb(157, 193, 214);
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.biografia{
+    background-color: rgb(117, 184, 158);
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.dato{
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.etiqueta{
+ font-size: bold;
+ color: aquamarine;
+}
+
+.valor{
+    color:blueviolet
+}
