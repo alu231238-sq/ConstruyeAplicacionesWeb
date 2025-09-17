@@ -1,0 +1,40 @@
+.body{
+    background-color: cornsilk;
+}
+.img{
+    width: 200px;
+    height: 100px;
+}
+.div{
+    text-align: center;
+}
+.h1{
+    text-align: center;
+    color: blue;
+}
+.p{
+    text-align: center;
+    color: blueviolet;
+}
+.h2{
+    text-align: center;
+    color: red;
+}
+.h3{
+    text-align: center;
+    color: green;
+}
+.footer{
+    text-align: center;
+    color: grey;
+}
+.bod{
+    background-color: white;
+}
+.h11{
+    text-align: left;
+    color: black;
+}
+.p1{
+    text-align: left;
+}
